@@ -7,3 +7,4 @@ The second task was to change all the previous String properties to **protected*
 
 ![Task 2](https://user-images.githubusercontent.com/34598688/47259384-90e49700-d4b1-11e8-9b13-7491860cfcfa.png)
 
+In the third task I had to experiment a little bit with the inheritance property and I have observed that a new initiated value in the first class is inherited by the next ones that have the **extends** property, and when the initial value is changed, the new valsue is inherited. Also, I have observed that a *private* propety cannot be displayed when called from the main function, it has to be at least *protected*.
